@@ -1,0 +1,24 @@
+/*
+                                                  *  Rules *
+
+1.run the outer for loop the no of times you are having the lines 
+
+which means 
+no of lines  = no of rows  
+which equal to 
+no if times outer loop will run 
+
+2.how many coloums are there which each row 
+ 
+so its basically 
+identify for every row number ,
+*how many coloums are there 
+*types of elements in the column
+
+3.what do you need to print
+
+
+
+
+
+*/
